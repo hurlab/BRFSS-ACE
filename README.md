@@ -2,7 +2,7 @@
 This project includes the scripts related to following manuscript. 
 ### Title: Adverse childhood experiences and chronic health outcomes: Evidence from 33 US states in the Behavioral Risk Factor Surveillance System, 2019-2023
 ### Authors  
-Christianah Jemiyo<sup>\*, M.S.</sup>, Brett A. McGregor<sup>\*, Ph.D.</sup>, Hasin Rehana<sup>, M.S.</sup>, Junguk Hur<sup>\$, Ph.D.</sup>
+Christianah Jemiyo<sup>\*</sup>, Brett A. McGregor<sup>\*</sup>, Hasin Rehana, Junguk Hur<sup>\$</sup>
 
 ### Affiliation  
 Department of Biomedical Sciences, University of North Dakota School of Medicine and Health Sciences, Grand Forks, ND 58202, USA
