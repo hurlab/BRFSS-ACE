@@ -1,0 +1,18 @@
+"Outcome","1 - 2 ACEs","FDR","3 or more ACEs","FDR_3plus"
+"heart_attack",1.17,0.2015,1.29,0.0561
+"coronary_heart_disease",1.23,0.0851,1.68,0
+"stroke",1.21,0.2015,1.58,0.0036
+"asthma",1.22,0.0525,1.99,0
+"skin_cancer",1.14,0.0834,1.07,0.4407
+"other_cancer",1.02,0.8182,1.22,0.0298
+"copd",1.54,0,2.34,0
+"depressive_disorder",1.77,0,3.64,0
+"kidney_disease",1.32,0.0405,1.45,0.0058
+"diabetes_bin",1.05,0.5734,1.16,0.0908
+"arthritis",1.07,0.1794,1.37,0
+"bmi_above_25",0.99,0.8182,1.03,0.3385
+"fair_or_poor_general_health",1.19,0.0403,1.82,0
+"i4_days_poor_physical_health",1.21,0.0639,1.62,0
+"i4_days_poor_mental_health",1.42,0.0029,2.81,0
+"current_smoker",1.27,0,1.63,0
+"heavy_drinker",1.35,0.0012,1.92,0

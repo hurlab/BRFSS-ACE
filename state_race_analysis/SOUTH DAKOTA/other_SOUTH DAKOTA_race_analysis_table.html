@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>table output</title>
+<script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<link href="lib/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<script src="lib/kePrint-0.0.1/kePrint.js"></script>
+
+</head>
+<body>
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+ <thead>
+<tr>
+<th style="empty-cells: hide;border-bottom:hidden;" colspan="1"></th>
+<th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="4"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px; ">Risk Ratio - Race: other</div></th>
+</tr>
+  <tr>
+   <th style="text-align:left;"> Outcome </th>
+   <th style="text-align:center;"> 1 - 2 ACEs </th>
+   <th style="text-align:center;"> FDR </th>
+   <th style="text-align:center;"> 3 or more ACEs </th>
+   <th style="text-align:center;"> FDR </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Heart Attack </td>
+   <td style="text-align:center;"> 3.000000e-01 </td>
+   <td style="text-align:center;"> 0.558 </td>
+   <td style="text-align:center;"> 9.700000e-01 </td>
+   <td style="text-align:center;"> 0.969 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Coronary Heart Disease </td>
+   <td style="text-align:center;"> 2.340000e+00 </td>
+   <td style="text-align:center;"> 0.25 </td>
+   <td style="text-align:center;"> 1.080000e+00 </td>
+   <td style="text-align:center;"> 0.953 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Stroke </td>
+   <td style="text-align:center;"> 7.000000e-02 </td>
+   <td style="text-align:center;"> 0.154 </td>
+   <td style="text-align:center;"> 3.310000e+00 </td>
+   <td style="text-align:center;"> 0.152 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Asthma </td>
+   <td style="text-align:center;"> 4.600000e-01 </td>
+   <td style="text-align:center;"> 0.558 </td>
+   <td style="text-align:center;"> 3.180000e+00 </td>
+   <td style="text-align:center;"> 0.22 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Skin Cancer </td>
+   <td style="text-align:center;font-weight: bold;"> 2.056755e+10 </td>
+   <td style="text-align:center;font-weight: bold;"> &lt;0.001 </td>
+   <td style="text-align:center;font-weight: bold;"> 1.480061e+09 </td>
+   <td style="text-align:center;font-weight: bold;"> &lt;0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Other Cancer </td>
+   <td style="text-align:center;"> 1.490000e+00 </td>
+   <td style="text-align:center;"> 0.76 </td>
+   <td style="text-align:center;"> 8.900000e-01 </td>
+   <td style="text-align:center;"> 0.915 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> COPD </td>
+   <td style="text-align:center;"> 2.490000e+00 </td>
+   <td style="text-align:center;"> 0.639 </td>
+   <td style="text-align:center;"> 3.700000e+00 </td>
+   <td style="text-align:center;"> 0.558 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Depressive Disorder </td>
+   <td style="text-align:center;font-weight: bold;"> 8.460000e+00 </td>
+   <td style="text-align:center;font-weight: bold;"> 0.1 </td>
+   <td style="text-align:center;font-weight: bold;"> 1.355000e+01 </td>
+   <td style="text-align:center;font-weight: bold;"> 0.031 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Kidney Disease </td>
+   <td style="text-align:center;"> 1.300000e-01 </td>
+   <td style="text-align:center;"> 0.141 </td>
+   <td style="text-align:center;"> 2.800000e-01 </td>
+   <td style="text-align:center;"> 0.25 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Diabetes </td>
+   <td style="text-align:center;"> 2.870000e+00 </td>
+   <td style="text-align:center;"> 0.154 </td>
+   <td style="text-align:center;"> 2.700000e+00 </td>
+   <td style="text-align:center;"> 0.25 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Arthritis </td>
+   <td style="text-align:center;"> 1.580000e+00 </td>
+   <td style="text-align:center;"> 0.558 </td>
+   <td style="text-align:center;"> 1.600000e+00 </td>
+   <td style="text-align:center;"> 0.558 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI Above 25 </td>
+   <td style="text-align:center;"> 1.070000e+00 </td>
+   <td style="text-align:center;"> 0.76 </td>
+   <td style="text-align:center;"> 1.190000e+00 </td>
+   <td style="text-align:center;"> 0.25 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Fair or Poor General Health </td>
+   <td style="text-align:center;"> 4.130000e+00 </td>
+   <td style="text-align:center;"> 0.25 </td>
+   <td style="text-align:center;"> 1.179000e+01 </td>
+   <td style="text-align:center;"> 0.052 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 14+ Days Poor Physical Health </td>
+   <td style="text-align:center;"> 5.300000e-01 </td>
+   <td style="text-align:center;"> 0.668 </td>
+   <td style="text-align:center;"> 2.190000e+00 </td>
+   <td style="text-align:center;"> 0.335 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 14+ Days Poor Mental Health </td>
+   <td style="text-align:center;"> 1.112000e+01 </td>
+   <td style="text-align:center;"> 0.152 </td>
+   <td style="text-align:center;"> 2.285000e+01 </td>
+   <td style="text-align:center;"> 0.054 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Current Smoker </td>
+   <td style="text-align:center;"> 1.320000e+00 </td>
+   <td style="text-align:center;"> 0.707 </td>
+   <td style="text-align:center;"> 2.850000e+00 </td>
+   <td style="text-align:center;"> 0.116 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Heavy Drinker </td>
+   <td style="text-align:center;"> 6.030000e+00 </td>
+   <td style="text-align:center;"> 0.052 </td>
+   <td style="text-align:center;"> 4.670000e+00 </td>
+   <td style="text-align:center;"> 0.088 </td>
+  </tr>
+</tbody>
+</table>
+</body>
+</html>

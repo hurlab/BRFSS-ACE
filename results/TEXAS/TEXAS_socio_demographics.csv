@@ -1,0 +1,26 @@
+"Category","Variable","None","Low ACE (1-2)","High ACE (3+)"
+"18 - 24yrs","age_group",129,187,180
+"25 - 34yrs","age_group",253,343,291
+"35 - 44yrs","age_group",312,384,374
+"45 - 54yrs","age_group",429,428,382
+"55 - 64yrs","age_group",513,514,342
+"65+ yrs","age_group",1173,821,321
+"attended college/tech","education_level",665,759,613
+"grad college/tech","education_level",987,881,530
+"grad high sc","education_level",704,705,489
+"nt grad high sc","education_level",441,321,253
+"male","gender",1285,1297,809
+"female","gender",1524,1380,1081
+"no","health_coverage",480,514,524
+"yes","health_coverage",1096,1302,1025
+"< 15k","income_level",284,280,232
+"15k – <25k","income_level",414,435,345
+"25k – <35k","income_level",212,233,186
+"35k – <50k","income_level",299,272,229
+"≥ 50k","income_level",1012,1041,669
+"AIAN","race",15,17,16
+"asian","race",66,38,5
+"black","race",134,194,113
+"hispanic","race",1001,940,612
+"other","race",60,78,80
+"white","race",1468,1344,1017

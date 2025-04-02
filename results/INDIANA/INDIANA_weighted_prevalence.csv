@@ -1,0 +1,9 @@
+"Variable","Prevalence","CI_low","CI_high"
+"abuse_physical",25,23.6,26.3
+"abuse_sexual",13.9,12.8,15
+"abuse_emotional",35.6,34.1,37.1
+"household_mental",19.7,18.4,21
+"household_substance",26.8,25.4,28.2
+"household_incarcerated",9.3,8.3,10.3
+"household_violence",17.7,16.5,19
+"parental_separation",30.9,29.4,32.4
