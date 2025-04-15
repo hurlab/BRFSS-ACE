@@ -30,3 +30,5 @@ Department of Biomedical Sciences, University of North Dakota School of Medicine
 | `state_based_data_availability_map`      | Visualizes which U.S. states included ACE questions in BRFSS across the 2019–2023 survey years.            |
 | `state_level_ACE_distribution_map`       | Displays the distribution of mean ACE scores at the state level across all available BRFSS data.           |
 
+### Citation
+Jemiyo C<sup>\*</sup>, McGregor BA<sup>\*</sup>, Rehana H, and Hur J. Adverse childhood experiences and chronic health outcomes: Evidence from 33 US states in the Behavioral Risk Factor Surveillance System, 2019-2023. <b><i>BMC Public Health</i></b>. (In press)<br><br>
